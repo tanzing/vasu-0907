@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vasudhevan S
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Machine Learning w.r.t Data Visulisation
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on a React Project
 - 📫 How to reach me ...
 
 Mail id: vasudhevan090701@gmail.com 
