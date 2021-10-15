@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 
 Mail id: vasudhevan090701@gmail.com 
+Linkedin: https://www.linkedin.com/in/vasudhevan-s-2923551a1/
 
 <!---
 vasu-0907/vasu-0907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
